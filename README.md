@@ -10,40 +10,40 @@ When the user enters a valid input, if (s)he selects the last option, then the p
 
 **Sample Runs**
 
-Please select one of the options below:
-1-Encrypt the text
-2-Decrypt the text
-3-Exit
-Enter your choice: a
-Invalid input!
-
-Please select one of the options below:
-1-Encrypt the text
-2-Decrypt the text
-3-Exit
-Enter your choice: 10
-Invalid input!
-
-Please select one of the options below:
-1-Encrypt the text
-2-Decrypt the text
-3-Exit
-Enter your choice: 3
-Bye...
-
-Please select one of the options below:
-1-Encrypt the text
-2-Decrypt the text
-3-Exit
-Enter your choice: 1
-Please enter the plaintext: tsubasa ve misaki
-Encryption of 'tsubasa ve misaki' is 'ghfyzhz ev nrhzpr'.
-
-Please select one of the options below:
-1-Encrypt the text
-2-Decrypt the text
-3-Exit
-Enter your choice: 2
-Please enter the ciphertext: pzio svrma hxsmvrwvi10
-Decryption of 'pzio svrma hxsmvrwvi10' is 'karl heinz schneider10'.
+Please select one of the options below:</br>
+1-Encrypt the text</br>
+2-Decrypt the text</br>
+3-Exit</br>
+Enter your choice: a</br>
+Invalid input!</br>
+</br>
+Please select one of the options below:</br>
+1-Encrypt the text</br>
+2-Decrypt the text</br>
+3-Exit</br>
+Enter your choice: 10</br>
+Invalid input!</br>
+</br>
+Please select one of the options below:</br>
+1-Encrypt the text</br>
+2-Decrypt the text</br>
+3-Exit</br>
+Enter your choice: 3</br>
+Bye...</br>
+</br>
+Please select one of the options below:</br>
+1-Encrypt the text</br>
+2-Decrypt the text</br>
+3-Exit</br>
+Enter your choice: 1</br>
+Please enter the plaintext: tsubasa ve misaki</br>
+Encryption of 'tsubasa ve misaki' is 'ghfyzhz ev nrhzpr'.</br>
+</br>
+Please select one of the options below:</br>
+1-Encrypt the text</br>
+2-Decrypt the text</br>
+3-Exit</br>
+Enter your choice: 2</br>
+Please enter the ciphertext: pzio svrma hxsmvrwvi10</br>
+Decryption of 'pzio svrma hxsmvrwvi10' is 'karl heinz schneider10'.</br>
 
