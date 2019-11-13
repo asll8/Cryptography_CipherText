@@ -1,3 +1,7 @@
+**Cryptography_CipherText**
+
 The program will start by displaying a menu of options, where the user can select to (1) encrypt a plaintext, (2) decrypt a ciphertext, or (3) exit. Then, the program will prompt for the choice of the user and check the validity of this input. At this point, the user is expected to enter either "1", "2" or "3". Any other value entered by the user should be considered as an incorrect input. If the user enters an invalid input, the program should repeatedly display the menu and prompt for a choice until the user enters a valid value as his/her choice. 
 
 When the user enters a valid input, if (s)he selects the last option, then the program will display a goodbye message and terminate its execution. Otherwise, the program will prompt for either the plaintext or the ciphertext, depending on the choice of the user. Once the program gets the text to be encrypted or decrypted, it will then perform the respective operation by following the algorithm of the cipher described above and display the result of the required encryption or decryption. The text provided by the user may contain any characters, but only the English letters (either lowercase or uppercase) should be encrypted or decrypted, the rest (digits, empty space, punctuations or any other characters) should simply be repeated in the encrypted/decrypted version of the given text. In other words, the characters other than English uppercase/lowercase letters should stay same with he encrypted/decrypted version.
+
+
